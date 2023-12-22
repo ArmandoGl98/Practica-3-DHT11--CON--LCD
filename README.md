@@ -40,3 +40,5 @@ lcd.setCursor(0, 0); lcd.print(" Temp: " + String(data.temperature, 1) + "\xDF"+
 delay(1000); }
 
 *Instalar la libreria de DHT sensor library for ESPx como se muestra en la siguente imagen.
+![](https://github.com/ArmandoGl98/Practica-3-DHT11--CON--LCD/blob/main/Captura%20de%20pantalla%202023-12-21%20195253.png) 
+*Realizar la conexion de DHT22 con la ESP32 y de la LCD de la siguiente manera
