@@ -50,3 +50,4 @@ Colocar la temperatura y humedad dando doble click al sensor DHT11
  ###### RESULTADOS
  Se veran los datos en la pantalla LCD
  
+![](https://github.com/ArmandoGl98/Practica-3-DHT11--CON--LCD/blob/main/Captura%20de%20pantalla%202023-12-21%20195320.png)
